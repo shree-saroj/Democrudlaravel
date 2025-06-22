@@ -63,6 +63,7 @@ Navigate into the project directory:
 ```bash
 git clone https://github.com/yourusername/democrudlaravel.git
 cd democrudlaravel
+composer install
 ```
 
 ---
